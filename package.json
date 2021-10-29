@@ -1,0 +1,22 @@
+{
+  "name": "onion",
+  "version": "1.0.0",
+  "description": "洋葱",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qidaneix/onion.git"
+  },
+  "author": "xiaodabao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qidaneix/onion/issues"
+  },
+  "homepage": "https://github.com/qidaneix/onion#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
